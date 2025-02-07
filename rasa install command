@@ -1,0 +1,31 @@
+pip3 install rasa
+Id CommandLine
+  -- -----------
+   1 python3 --version
+   2 python --version
+   3 pip3 --version
+   4 pip3 install -U pip
+   5 python3 -m venv ./venv
+   6 python -m venv ./venv
+   7 .\venv\Scripts\activate
+   8 pip3 install rasa
+   9 python  pip install --upgrade pip
+  10 python3  pip install --upgrade pip
+  11 c:\users\saura\venv\scripts\python.exe -m pip install --upgrade pip
+  12 pip3 install rasa
+  13 rasa init
+  14 rustc --version
+  15 where python
+  16 pip uninstall cryptography -y
+  17 pip install cryptography --no-cache-dir
+  18 pip install --upgrade pip setuptools wheel
+  19 pip install --upgrade rasa cryptography
+  20 pip uninstall cryptography -yrasa init
+  21 rasa init
+  22 pip uninstall cryptography -y
+  23 pip install --no-cache-dir --force-reinstall cryptography
+  24 pip install --no-cache-dir --force-reinstall cryptography==41.0.3
+  25 rasa init
+  26 rasa shell
+pip install --upgrade pip setuptools wheel
+pip install --upgrade pip setuptools wheel

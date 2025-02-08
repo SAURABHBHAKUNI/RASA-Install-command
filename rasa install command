@@ -29,3 +29,12 @@ Id CommandLine
   26 rasa shell
 pip install --upgrade pip setuptools wheel
 pip install --upgrade pip setuptools wheel
+
+
+###################################################################
+python -m venv .venv
+.venv/scripts/activate
+python -m pip install pip --upgrade
+pip install cryptography
+python -c "from cryptography import x509"
+

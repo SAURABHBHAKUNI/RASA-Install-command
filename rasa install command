@@ -14,6 +14,7 @@ Id CommandLine
   11 c:\users\saura\venv\scripts\python.exe -m pip install --upgrade pip
   12 pip3 install rasa
   13 rasa init
+rasa run --enable-api --cors "*"
   14 rustc --version
   15 where python
   16 pip uninstall cryptography -y
